@@ -1,6 +1,6 @@
 const NUM_ROWS = 6;
 const NUM_COLS = 7;
-const SIZE = 50;
+const SIZE = 100;
 const NONE = 0;  // black
 const HUMAN = 1;    // red human
 const AI = 2;    // yellow AI
